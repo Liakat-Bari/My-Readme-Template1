@@ -171,7 +171,7 @@ https://ruet.ac.bd
 
 ---
 
-<img src="./Images/1.JPG" width="500" title="profile image"/>  
+<img src="./Images/1.jpg" width="500" title="profile image"/>  
 😓😓😓😓😓😓😓😓
 
 </br>
