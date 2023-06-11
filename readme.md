@@ -182,7 +182,7 @@ https://ruet.ac.bd
 
 | Institute Name | Types of Degree |
 |----------------| ----------------|
-| **Rajshahi University of ENgineering & Technology** | Bachelor of Science |
+| **Rajshahi University of Engineering & Technology** | Bachelor of Science |
 | Government Science College | HSC |
 | KHSC | SSC |
 
